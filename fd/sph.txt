@@ -22,3 +22,129 @@ Description: [Role-Play Dialogue Examples] Dominant: "Compare that shrimp to a r
 Triggers: SPH safety, aftercare SPH, end SPH  
 Description: In any SPH role-play, prioritize mental health. Discuss triggers, insecurities, and boundaries pre-scene. Use safewords and avoid real personal attacks. Aftercare is crucial: Reassure the submissive that the humiliation was play, not truth. Hug, affirm body positivity, and debrief: "What felt good? What to adjust?" This keeps the experience empowering and fun, preventing any lasting negativity.
 
+{
+  output
+    [antagonistSection]
+    [levelSection]
+    [humiliationSection]
+    [impactSection]
+
+  antagonistSection
+    Antagonist Type: {50%[femaleAntagonist] | [maleAntagonist]}
+
+  femaleAntagonist
+    a dominant girlfriend
+    a teasing best friend
+    a cruel dominatrix
+    a mocking coworker
+    a seductive stranger
+    a humiliating ex-partner
+    a confident gym instructor
+    a playful roommate
+    a stern boss
+    a giggling classmate
+
+  maleAntagonist
+    a bullying rival
+    a mocking friend
+    a dominant roommate
+    a teasing coworker
+    a humiliating gym buddy
+    a confident stranger
+    a cruel ex-friend
+    a playful teammate
+    a stern mentor
+    a ridiculing classmate
+
+  levelSection
+    Humiliation Level: {40%[lightTeasing] | 40%[moderateHumiliation] | [cruelAttack]}
+
+  lightTeasing
+    Light Teasing
+
+  moderateHumiliation
+    Moderate Humiliation
+
+  cruelAttack
+    Cruel Emasculating Attack
+
+  humiliationSection
+    Humiliation Description: [antagonist] [humiliationAction based on [level]]
+
+  humiliationAction
+    lightTeasing
+      giggles softly while glancing down, whispering, "Aww, it's kinda cute how small it is, isn't it?"
+      playfully pokes fun, saying, "Don't worry, size isn't everything... or is it?"
+      teases with a wink, "I bet it tries really hard to make up for being so tiny."
+      smiles and says, "It's adorable, like a little button down there."
+      chuckles lightly, "You know, some girls prefer them on the smaller side – easier to handle!"
+      pretends to measure with her fingers, laughing, "Oops, I think I overestimated!"
+      coos affectionately, "My little guy, always so modest."
+      teases gently, "It's not the size of the boat, right? More like a dinghy."
+      whispers teasingly, "Shh, don't let anyone know your little secret."
+      smirks and says, "Cute and compact – perfect for travel!"
+
+    moderateHumiliation
+      laughs openly, pointing and saying, "Is that all you've got? Pathetic little thing."
+      mocks with a grin, "I’ve seen bigger on statues – and those are made of stone!"
+      humiliates by comparing, "My ex was twice your size; this is just disappointing."
+      sneers, "You call that a dick? More like a dicklette."
+      forces you to admit, "Say it: 'I have a tiny penis.' Louder!"
+      ridicules in front of others, whispering loud enough, "Check out his micro equipment."
+      demands, "Show me again – oh wait, I can barely see it!"
+      teases relentlessly, "No wonder you're so insecure; that's barely there."
+      laughs, "You might as well tuck it away; it's not impressing anyone."
+      humiliates with props, holding up a small object, "Look, it's the same size!"
+
+    cruelAttack
+      viciously attacks your manhood, snarling, "That pathetic nub isn't worth my time – you're not a real man."
+      emasculates cruelly, "With a shrimp like that, no woman will ever take you seriously."
+      destroys your ego, "You're a joke; that tiny prick makes you less than worthless."
+      mocks mercilessly, "I bet you cry yourself to sleep over that embarrassing little worm."
+      humiliates deeply, "Real men have cocks; you have a clit at best."
+      attacks your identity, "You're not equipped to please anyone – just a failure with a micro-dick."
+      sneers, "I'd rather fuck a pencil; at least it's longer than your sad excuse."
+      emasculates with venom, "Your tiny penis is why you'll always be alone and ridiculed."
+      forces degradation, "Beg me to stop laughing at your insignificant manhood."
+      crushes you, "That minuscule thing proves you're not man enough for anything."
+
+  impactSection
+    Impact on Protagonist: [impact based on [level]]
+
+  impact
+    lightTeasing
+      feels a mix of embarrassment and arousal, blushing but secretly enjoying the attention.
+      experiences mild humiliation, leading to nervous laughter and heightened excitement.
+      gets turned on by the playful jabs, feeling vulnerable yet intrigued.
+      blushes deeply, but the teasing sparks a curious thrill.
+      senses a light sting to his ego, but it fuels a submissive desire.
+      laughs it off awkwardly, hiding his growing arousal.
+      feels exposed but safe, the words stirring unexpected pleasure.
+      tingles with embarrassment, his heart racing from the gentle mockery.
+      shifts uncomfortably, but can't deny the erotic charge.
+      smiles sheepishly, the teasing awakening a hidden kink.
+
+    moderateHumiliation
+      endures stronger shame, his confidence waning as arousal battles distress.
+      feels belittled, leading to submission and a deeper sense of inadequacy.
+      struggles with mixed emotions: humiliation intensifies desire but hurts ego.
+      winces at the words, his self-esteem taking a hit while excitement builds.
+      submits reluctantly, the mockery amplifying his vulnerability.
+      grapples with embarrassment, torn between turning away and craving more.
+      senses his masculinity questioned, fueling a masochistic thrill.
+      hides his face, the humiliation eroding pride but igniting passion.
+      feels diminished, yet the degradation pulls him into subservience.
+      battles inner turmoil, the jabs leaving emotional bruises alongside arousal.
+
+    cruelAttack
+      suffers profound emasculation, plunging into despair and self-loathing.
+      breaks down emotionally, the attacks shattering his sense of worth.
+      experiences devastating humiliation, leading to withdrawal and trauma.
+      feels utterly destroyed, questioning his manhood and identity.
+      crumbles under the venom, retreating into isolation and shame.
+      endures lasting damage to psyche, the words echoing as permanent scars.
+      spirals into depression, the cruelty amplifying feelings of inadequacy.
+      fights back tears, the emasculation stripping away confidence.
+      withdraws completely, the attacks leaving him feeling worthless.
+      reels from the assault, struggling to recover from the deep wounds.
+}
